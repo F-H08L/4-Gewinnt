@@ -1,6 +1,11 @@
+#Erster Versuch von 4-Gewinnt in Python
+#Das ganze wurde ohne guide oder vorwissen Erstellt also sicherlich grausamer Code
+#Freue mich schon das später mit mehr wissen zu verschlimmbessern
+
 
 # spielfeld um 90° gedreht
-# rechts also bei [Spalten1-7] ist oben aka links is boden bei postion "0" in der liste
+# rechts also bei [Spalten1-7] ist oben und links is boden bei postion "0" in der liste
+# beim nächsten rewrite könnte man die selbe methode wie für "Wagrecht1-6" nutzen und das ganzen von vorherein richtig zu machen
 Spalte7 = [0,0,0,0,0,0]
 Spalte6 = [0,0,0,0,0,0]
 Spalte5 = [0,0,0,0,0,0]
