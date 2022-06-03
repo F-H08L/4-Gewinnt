@@ -1,7 +1,6 @@
-#Erst strg k dan strg c unkommen mit U für block kommentare
 
 # spielfeld um 90° gedreht
-# rechts ist oben aka links is boden bei postion "0"
+# rechts also bei [Spalten1-7] ist oben aka links is boden bei postion "0" in der liste
 Spalte7 = [0,0,0,0,0,0]
 Spalte6 = [0,0,0,0,0,0]
 Spalte5 = [0,0,0,0,0,0]
